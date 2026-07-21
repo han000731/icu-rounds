@@ -1,0 +1,14 @@
+{
+  "appId": "com.han000731.icurounds",
+  "appName": "ICU查房记录",
+  "webDir": "web",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "CapacitorHttp": {
+      "enabled": true
+    }
+  }
+}
